@@ -1,7 +1,7 @@
 # Simulation-Based Comparative Analysis of Personal Rapid Transit (PRT) and Bus Transportation Systems
 
 This project is a simulation-based comparison of a Pod-based Personal Rapid Transit (PRT) system and a traditional Bus Transportation System. Conducted as part of an internship at Gridflow Technologies, the simulation analyzes passenger experience and transit system efficiency over five experiments under varied spatial and temporal demand conditions.
-
+📄 **This study has been accepted for presentation at the 8th Conference of Transportation Research Group of India (TRG 2025).**
 ---
 
 ## 🚀 Technologies Used
@@ -149,7 +149,7 @@ With contributions from: Sneha Patil, Apoorva Angadi, Ramyashri Kulkarni, Shreya
 Special thanks to **Dr. Umesh Rudrapatna** (Gridflow Technologies) for guidance and mentorship.
 
 ---
-📄 **This study has been accepted for presentation at the 8th Conference of Transportation Research Group of India (TRG 2025).**
+
 
 
 ## 📌 Notes
