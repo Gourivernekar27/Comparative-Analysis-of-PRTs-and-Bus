@@ -100,7 +100,7 @@ Simulates **evening movement away from the city center** to the outskirts.
 
 
 📊 **Plots:**
-![Exp4 Waiting Time](Images/exp4(2).png)
+![Exp4 Waiting Time](Images/exp4 (2).png)
 
 
 ---
@@ -121,8 +121,8 @@ This experiment tests PRT’s **ability to extend infrastructure** beyond tradit
 * Average Total travel time
 
 📊 **Plots:**
-![Exp5 Walking Time](Images/exp5_without_opt(1).jpg)
-![Exp5 Walking Time](Images/exp5_with_opt(1).jpg)
+![Exp5 Walking Time](Images/exp5_without_opt (1).jpg)
+![Exp5 Walking Time](Images/exp5_with_opt (1).jpg)
 
 
 ---
