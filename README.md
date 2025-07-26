@@ -100,7 +100,7 @@ Simulates **evening movement away from the city center** to the outskirts.
 
 
 📊 **Plots:**
-![Exp4 Waiting Time](Images/exp4(2).png)
+![Exp4 Waiting Time](Images/exp4.png)
 
 
 ---
