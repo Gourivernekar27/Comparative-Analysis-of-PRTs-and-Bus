@@ -100,7 +100,7 @@ Simulates **evening movement away from the city center** to the outskirts.
 
 
 📊 **Plots:**
-![Exp4 Waiting Time](Images/exp4.png)
+![Exp4 Waiting Time](Images/exp4(2).png)
 
 
 ---
@@ -121,8 +121,8 @@ This experiment tests PRT’s **ability to extend infrastructure** beyond tradit
 * Average Total travel time
 
 📊 **Plots:**
-![Exp5 Walking Time](Images/exp5_without_opt(1).png)
-![Exp5 Walking Time](Images/exp5_with_opt(1).png)
+![Exp5 Walking Time](Images/exp5_without_opt(1).jpg)
+![Exp5 Walking Time](Images/exp5_with_opt(1).jpg)
 
 
 ---
@@ -149,7 +149,7 @@ With contributions from: Sneha Patil, Apoorva Angadi, Ramyashri Kulkarni, Shreya
 Special thanks to **Dr. Umesh Rudrapatna** (Gridflow Technologies) for guidance and mentorship.
 
 ---
-📄 This study has been accepted for presentation at the 8th Conference of Transportation Research Group of India (TRG 2025).
+📄 **This study has been accepted for presentation at the 8th Conference of Transportation Research Group of India (TRG 2025).**
 
 
 ## 📌 Notes
